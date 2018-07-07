@@ -1,0 +1,45 @@
+
+/* lato font  */
+
+@font-face {
+    font-family: "Lato, sans-serif";
+    src: url("fonts/lato/lato-Black.ttf")format("ttf"),
+    url("fonts/lato/lato-Black.ttf")format("woff"),
+    url("fonts/lato/lato-Black.ttf")format("woff2"),
+    url("fonts/lato/lato-Black.ttf")format("svg"),
+}
+@font-face {
+    font-family: "Lato, sans-serif";
+    src: url("fonts/lato/Lato-BlackItalic.ttf")format("ttf"),
+    url("fonts/lato/Lato-BlackItalic.ttf")format("woff"),
+    url("fonts/lato/Lato-BlackItalic.ttf")format("woff2"),
+    url("fonts/lato/Lato-BlackItalic.ttf")format("svg");
+}
+
+@font-face {
+    font-family: "Lato,bold";
+    src: url("fonts/lato/Lato-Bold.ttf")format("ttf"),
+    url("fonts/lato/Lato-Bold.ttf")format("woff"),
+    url("fonts/lato/Lato-Bold.ttf")format("woff2"),
+    url("fonts/lato/Lato-Bold.ttf")format("svg");
+}
+
+@font-face {
+    font-family: "Lato-BoldItalic";
+    src: url("fonts/lato/Lato-BoldItalic.ttf")format("ttf"),
+    url("fonts/lato/Lato-BoldItalic.ttf")format("woff"),
+    url("fonts/lato/Lato-BoldItalic.ttf")format("woff2"),
+    url("fonts/lato/Lato-BoldItalic.ttf")format("svg");
+}
+/* font  _Cursive  */
+/* @font-face {
+    font-family: "cursive";
+    src: url("fonts/lato/Lato-BoldItalic.ttf")format("ttf"),
+    url("fonts/lato/Lato-BoldItalic.ttf")format("woff"),
+    url("fonts/lato/Lato-BoldItalic.ttf")format("woff2"),
+    url("fonts/lato/Lato-BoldItalic.ttf")format("svg");
+}
+
+
+ */
+
